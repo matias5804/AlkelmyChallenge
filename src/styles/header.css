@@ -1,0 +1,30 @@
+
+
+.navHeader{
+    display: flex;
+    height: 60px;
+    background-color: rgb(39, 84, 156);
+    justify-content: center;
+    align-items: center;
+}
+
+.ulHeader{
+    display: flex;
+    gap: 20px;
+}
+
+.ulHeader li {
+    text-decoration: none;
+    list-style: none;
+    color:white;
+}
+
+ul{
+    padding-left: 0;
+}
+
+.linkHeader{
+    text-decoration: none;
+    list-style: none;
+    color:aliceblue
+}
